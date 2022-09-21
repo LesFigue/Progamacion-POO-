@@ -1,0 +1,11 @@
+C:\Users\LESLYEYOSELINFIGUERO\Documents\Leslye Figueroa\Ing. de Software\3er semestre\Programación OO\Practica1.2calherencia\Practica1.2calherencia\bin\Debug\Practica1.2calherencia.exe.config
+C:\Users\LESLYEYOSELINFIGUERO\Documents\Leslye Figueroa\Ing. de Software\3er semestre\Programación OO\Practica1.2calherencia\Practica1.2calherencia\bin\Debug\Practica1.2calherencia.exe
+C:\Users\LESLYEYOSELINFIGUERO\Documents\Leslye Figueroa\Ing. de Software\3er semestre\Programación OO\Practica1.2calherencia\Practica1.2calherencia\bin\Debug\Practica1.2calherencia.pdb
+C:\Users\LESLYEYOSELINFIGUERO\Documents\Leslye Figueroa\Ing. de Software\3er semestre\Programación OO\Practica1.2calherencia\Practica1.2calherencia\obj\Debug\Practica1.2calherencia.csproj.AssemblyReference.cache
+C:\Users\LESLYEYOSELINFIGUERO\Documents\Leslye Figueroa\Ing. de Software\3er semestre\Programación OO\Practica1.2calherencia\Practica1.2calherencia\obj\Debug\Practica1.2calherencia.csproj.SuggestedBindingRedirects.cache
+C:\Users\LESLYEYOSELINFIGUERO\Documents\Leslye Figueroa\Ing. de Software\3er semestre\Programación OO\Practica1.2calherencia\Practica1.2calherencia\obj\Debug\Practica1._2calherencia.Form1.resources
+C:\Users\LESLYEYOSELINFIGUERO\Documents\Leslye Figueroa\Ing. de Software\3er semestre\Programación OO\Practica1.2calherencia\Practica1.2calherencia\obj\Debug\Practica1._2calherencia.Properties.Resources.resources
+C:\Users\LESLYEYOSELINFIGUERO\Documents\Leslye Figueroa\Ing. de Software\3er semestre\Programación OO\Practica1.2calherencia\Practica1.2calherencia\obj\Debug\Practica1.2calherencia.csproj.GenerateResource.cache
+C:\Users\LESLYEYOSELINFIGUERO\Documents\Leslye Figueroa\Ing. de Software\3er semestre\Programación OO\Practica1.2calherencia\Practica1.2calherencia\obj\Debug\Practica1.2calherencia.csproj.CoreCompileInputs.cache
+C:\Users\LESLYEYOSELINFIGUERO\Documents\Leslye Figueroa\Ing. de Software\3er semestre\Programación OO\Practica1.2calherencia\Practica1.2calherencia\obj\Debug\Practica1.2calherencia.exe
+C:\Users\LESLYEYOSELINFIGUERO\Documents\Leslye Figueroa\Ing. de Software\3er semestre\Programación OO\Practica1.2calherencia\Practica1.2calherencia\obj\Debug\Practica1.2calherencia.pdb
